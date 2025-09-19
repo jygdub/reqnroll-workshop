@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\A.BasicImplementation.Tests",
+    "\\A.BasicImplementation.Tests\\Features",
+    "\\B.AdditionalScenarios.Tests",
+    "\\B.AdditionalScenarios.Tests\\Features",
+    "\\C.Hooks.Tests",
+    "\\C.Hooks.Tests\\Features"
+  ],
+  "SelectedNode": "\\A.BasicImplementation.Tests\\Features\\FreeShipping.feature",
+  "PreviewInSolutionExplorer": false
+}
